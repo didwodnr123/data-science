@@ -61,3 +61,5 @@ for entry in json_data:
         ( user_id, course_id ) )
 
     conn.commit()
+
+cur.close()
