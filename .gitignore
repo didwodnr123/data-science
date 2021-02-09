@@ -3,3 +3,5 @@ input/
 config/
 .DS_Store
 CareLink_Project/
+datasets/
+images/
