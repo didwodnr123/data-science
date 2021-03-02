@@ -5,3 +5,5 @@ config/
 CareLink_Project/
 datasets/
 images/
+*.csv
+
