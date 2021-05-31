@@ -6,4 +6,4 @@ CareLink_Project/
 datasets/
 images/
 *.csv
-
+.ipynb_checkpoints
